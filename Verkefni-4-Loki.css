@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+* { box-sizing: border-box }
+body {
+    margin: 0;
+    background-image: linear-gradient(#FF69B4,red);
+    font-family: Indie Flower;
+}
+.liturmidja{
+    background-image: linear-gradient(red,#FF69B4)
+}
+.topnav{
+    text-align: right;
+    word-spacing: 10px;
+    font-family: Mansalva;
+    font-size: 20px;
+    justify-content: right;
+}
+h1 {
+    font-weight: 300;
+    font-size: 2.5em;
+    font-family: Mansalva;
+}
+blockquote{
+    background: rgba(255, 255, 255, 0.7);
+}
+.verkefni{
+    text-align: right;
+}
+header{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.container {
+    max-width: 60em; /*960px = fartölvur*/
+    margin: 0 auto; /* top+bottom og left+right */
+    padding: 0;}
+/* grid */
+.col-2 {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}
+.col-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.col-4 {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.gap-4 {
+    grid-gap: 4em
+}
+.copy{
+    text-align: center;
+}
+.pila{
+    position: fixed;
+    right: 30px;
+    bottom: 20px;
+
+    background:#8A2BE2;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 55px;
+    color: yellow;
+}
+a:active{
+    color: red;
+}
+a:hover{
+    color: yellow;
+}
+a:active{
+    color: greenyellow;
+}
+.innermenu a:link{
+    background-color: blueviolet;
+    padding: 14px 25px;
+    text-align: center;
+}
+.topnav{
+    margin-bottom: 20px;
+}
