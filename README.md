@@ -3,5 +3,4 @@
 2. [Verkefni 2](https://lokithemoron.github.io/Verkefni%202/Verkefni-2-Loki.html)
 3. [Verkefni 3](https://lokithemoron.github.io/Verkefni%203/Verkefni-3-OG-Loki.html)
 4. [Verkefni 4](https://lokithemoron.github.io/Verkefni%204/Verkefni-4-Loki.html)
-5. [Verkefni 5](https://lokithemoron.github.io/Verkefni%205/Verkefni-5-Loki.html) <br/>
-Allur réttur áskilin Loka Pálmasyni
+5. [Verkefni 5](https://lokithemoron.github.io/Verkefni%205/Verkefni-5-Loki.html)
