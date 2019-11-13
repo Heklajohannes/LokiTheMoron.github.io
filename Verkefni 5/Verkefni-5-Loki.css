@@ -1,0 +1,52 @@
+body{
+    display: grid;
+    grid-template-areas:
+    "haus haus"
+    "menu menu"
+    "um_mig ahugamal"
+    "fotur kort";
+}
+.header{
+    grid-area: haus;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: yellow solid;
+}
+.menu{
+    grid-area: menu;
+    background-color:yellow;
+    text-align: center;
+    border: solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.innermenu{
+    padding: 14px 25px;
+    border: currentColor;
+}
+.um_mig{
+    grid-area: um_mig;
+    border: yellow solid ;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.ahugamal{
+    grid-area: ahugamal;
+    background-color: yellow;
+    border: solid black;
+}
+.fotur{
+    grid-area: fotur;
+    background-color: yellow;
+    border: solid black;
+    padding: 10px;
+    justify-content: center;
+}
+.kort{
+    grid-area: kort;
+    background-color:black;
+    border: solid yellow;
+}
