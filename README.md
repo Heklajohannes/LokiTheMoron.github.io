@@ -5,3 +5,4 @@
 4. [Verkefni 4](https://lokithemoron.github.io/Verkefni%204/Verkefni-4-Loki.html)
 5. [Verkefni 5](https://lokithemoron.github.io/Verkefni%205/Verkefni-5-Loki.html)
 6. [Verkefni 6](https://lokithemoron.github.io/Verkefni%206/Verkefni-6-Loki)
+7. [Verkefni 7](https://lokithemoron.github.io/Verkefni%207/Verkefni-7-Loki)
